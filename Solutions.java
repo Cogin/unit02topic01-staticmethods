@@ -33,3 +33,4 @@ public class Solutions {
         System.out.println(trigIdentity(Math.sin(Math.PI)));
     }
 }
+// good
